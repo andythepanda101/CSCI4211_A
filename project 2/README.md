@@ -1,7 +1,7 @@
-# CSCI4211_rdt_python
+# CSCI4211 Project 2
 
 
-## Andy Chen, Zhang CSCI4211, 15/11/2021 Python3,Server.py,,Server.py
+## Andy Chen, Zhang CSCI4211, 15/11/2021 Python3,main.py,,main.py
 
 ## Compilation/Code Setup
 
